@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-session": "^1.0.6",
     "hbs": "^4.1.1",
-    "mongoose": "^4.9.3",
+    "mongoose": "^5.7.5",
     "morgan": "^1.10.0",
     "serve-favicon": "^2.5.0",
     "shopify-node-api": "^1.7.6",
